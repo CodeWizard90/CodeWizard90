@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeWizard90
-- 👀 I’m interested in coding 2D Games and Frontend Angular
-- 🌱 I’m currently learning C# and Python
+- 👀 I’m interested in Frontend Development with Angular and any UI/UX Frameworks and tools
+- 🌱 I’m currently learning C#, Python and Typescript
 
 
 <!---
